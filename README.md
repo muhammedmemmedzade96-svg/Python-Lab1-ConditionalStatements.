@@ -10,11 +10,11 @@ The application is structured as a unified, personalized console system that inc
 2. **Chinese Zodiac Calculator:** Determines the corresponding zodiac animal using modular arithmetic on the birth year.
 3. **Birthday Guessing Game:** Guesses the exact day of the month using five distinct binary group sets based on game logic.
 
-## 💻 Tech Stack
+# Tech Stack
 - **Language:** Python 3.x
 - **Concepts Used:** Functions (`def`), Infinite Loops (`while True`), Conditional Statements (`if-elif-else`), and Exception Handling (`try-except`).
 
-## 👨‍stud Student Information
+# Student Information
 - **Name:** Muhammad Mammadzada 
 - **Major:** Computer Engineering & Data Analytics
 - **Group:** KOM24X
